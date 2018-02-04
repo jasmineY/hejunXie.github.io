@@ -1,10 +1,10 @@
 # Site settings
-title: Rorysion
-SEOTitle: XHJ的博客 | hejunXie
+title: hejunXie
+SEOTitle: XHJ的博客 | hejunXie Blog
 header-img: img/post-bg-desk.jpg
 email: cnxiehejun@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Rorysion, xhj, XHJ的博客, XHJ, 谢和军, iOS, Apple, iPhone"
+keyword: "xhj, XHJ的博客, XHJ, 谢和军, java，xiehejun，hejunXie"
 url: "http://hejunXie.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hejunXie/hejunXie.github.io.git" # you code repository
@@ -12,18 +12,18 @@ github_repo: "https://github.com/hejunXie/hejunXie.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/myself.jpg       # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
-RSS: false
-weibo_username: false
+RSS: hejunXie
+weibo_username: hejunXie
 zhihu_username: hejunXie
 github_username: hejunXie
-facebook_username: false
-jianshu_username: false
-twitter_username: false
+facebook_username:
+jianshu_username: hejunXie
+twitter_username:
 
 
 
