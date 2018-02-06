@@ -55,13 +55,13 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+ # 评论系统
+ #Disqus（https://disqus.com/）
+ disqus_username: hejunXie
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 289f3dc0d9381690e890   #生成的clientID
   clientSecret: 467fc9047038c1828bdc12e4ddb7c4d5cbab3cff  #同上
   repo: hejunXie.github.io    #仓库名称
