@@ -66,15 +66,14 @@ yaml 头文件长这样:
 ```
 ---
 layout:     post
-title:      定时器 你真的会使用吗？
-subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
-header-img: img/post-bg-ios9-web.jpg
+title:      三十而立，我们真的已经准备好了吗？
+subtitle:   而立在即，不省何以保身
+date:       2018-02-04
+author:     hejunXie
+header-img: img/post-bg-30Live.jpg
 catalog: 	 true
 tags:
-    - iOS
-    - 定时器
+    - 思考与人生
 ---
 
 ```
