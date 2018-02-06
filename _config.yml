@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 467fc9047038c1828bdc12e4ddb7c4d5cbab3cff  #同上
   repo: hejunXie.github.io    #仓库名称
   owner: hejunXie    #github用户名
-  admin: ['hejunXie']
+  admin: hejunXie
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
